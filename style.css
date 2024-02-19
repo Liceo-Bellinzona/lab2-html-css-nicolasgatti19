@@ -1,13 +1,14 @@
 h1 {
     color: rgb(255, 174, 0);
+    text-align:center 
 }
 
 .block {
-    background-color: rgb(241, 221, 221);
+    background-color: rgb(211, 196, 196);
     border-style: solid;
     border-width: 2px;
     border-radius: 30px;
-    border-color: rgb(0, 0, 0);
+    border-color: rgb(68, 80, 119);
     padding-left: 15px;
     padding-right: 15px;
     padding-top: 15px;
@@ -24,11 +25,21 @@ img {
 
 }
 h2{
-    background-color: aqua;
+    text-align:center;
+    background-color:rgb(164, 202, 247);
     border-radius: 30px;
     border-width: 3px ;
     padding-left: 50px ;
 
-    p
+    
 
+}
+a{
+    text-decoration:none;
+}
+a:hover {
+    color: chartreuse;
+}
+a{
+    bold
 }
